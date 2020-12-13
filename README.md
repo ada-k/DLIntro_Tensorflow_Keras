@@ -1,4 +1,4 @@
-#### Introduction to Deep Learning with TensorFlow and Keras.
+### Introduction to Deep Learning with TensorFlow and Keras.
 A data camp course revision.
 
 ### Structure
